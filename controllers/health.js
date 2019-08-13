@@ -4,6 +4,6 @@ exports.heartbeat = (req,res,next) => {
 
 exports.health = (req,res,next) => {
     res.writeHead(200, {"Content-Type": "text/plain"});
-    res.end("Hello FROM Yonkers API Service!, Shockwave");
+    res.end("Hello FROM InfoSol Internal Eye API Service!");
 }
 

@@ -1,8 +1,13 @@
 # Change log
 
-## v1.0.0 - Jul. 31, 2019
+## v1.0.0 - Aug. 13, 2019
 
 Initial release/
 
+** Change:**
+-- template and scaffold
+-- health.js root endpoint and health endpoint
+
 ** Added:**
--- changes to template and scaffold
+-- main.js 
+-- mysql.js
