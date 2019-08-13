@@ -1,4 +1,4 @@
-# Speak BO Dashboard 
+# Internal Eye
 
 **Version 1.0.0** - [Change log](CHANGELOG.MD)
 
